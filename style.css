@@ -1,3 +1,11 @@
+.navbar-brand img{
+    height: 80px;
+}
+
+.col-sm-12 img{
+    width: 400px;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -26,6 +34,7 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
+
 
 .bloc {
     width: 100%;
@@ -775,7 +784,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
