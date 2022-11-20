@@ -6,6 +6,10 @@
     width: 400px;
 }
 
+h5{
+    color: #797979;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -140,7 +144,6 @@ a:hover {
 .d-bloc h3 a,
 .d-bloc h4 a,
 .d-bloc h5 a,
-.d-bloc h6 a,
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
 }
@@ -157,7 +160,6 @@ a:hover {
 .d-bloc h3 a:hover,
 .d-bloc h4 a:hover,
 .d-bloc h5 a:hover,
-.d-bloc h6 a:hover,
 .d-bloc p a:hover {
     color: rgba(255, 255, 255, 1);
 }
@@ -238,7 +240,6 @@ a:hover {
 .l-bloc h3 a,
 .l-bloc h4 a,
 .l-bloc h5 a,
-.l-bloc h6 a,
 .l-bloc p a {
     color: rgba(0, 0, 0, .6);
 }
@@ -256,7 +257,6 @@ a:hover {
 .l-bloc h3 a:hover,
 .l-bloc h4 a:hover,
 .l-bloc h5 a:hover,
-.l-bloc h6 a:hover,
 .l-bloc p a:hover {
     color: rgba(0, 0, 0, 1);
 }
@@ -653,7 +653,6 @@ h2,
 h3,
 h4,
 h5,
-h6,
 p,
 label,
 .btn,
@@ -908,7 +907,6 @@ h4 {
     h3,
     h4,
     h5,
-    h6,
     p,
     #disqus_thread {
         padding-left: 10px!important;
