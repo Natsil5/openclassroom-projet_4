@@ -1,5 +1,6 @@
 .navbar-brand img{
     height: 40px;
+    width: auto;
 }
 
 .carousel-inner>.item>a>img,
