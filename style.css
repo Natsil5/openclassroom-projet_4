@@ -332,7 +332,7 @@ a:hover {
 
 .navbar-brand img[src$=svg] {
     min-width: 100px;
-    min-height: auto;
+    min-height: 100%;
 }
 
 .nav-center .navbar-brand img {
